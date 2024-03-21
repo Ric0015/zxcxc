@@ -1,0 +1,9 @@
+0 Fuego
+1 Planta
+2 Agua
+3 lucha
+4 Fantasma
+5 Psiquiquo
+6 Electrico
+7 Volador
+8 Dragon
